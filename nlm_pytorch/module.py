@@ -1,3 +1,5 @@
+# code copied from https://ridiqulous.com/pytorch-non-local-means/
+
 import torch
 import torch.nn as nn
 

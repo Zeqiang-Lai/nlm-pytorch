@@ -1,6 +1,6 @@
 # nlm-pytorch
 
-Non-local means denoising in pytorch.
+Non-local means denoising in PyTorch.
 
 
 
